@@ -7,3 +7,8 @@ img {
 	padding-top: 5vh;
 	width: 80%;
 }
+
+.bottomPic {
+	padding-top: 0px;
+	margin-top: -5px;
+}
